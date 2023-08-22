@@ -127,7 +127,7 @@ _Note_: You should run it twice, the first time to see how the model performs on
 
 ### BibTeX
 
-@INPROCEEDINGS{10202623,
+@article{10202623,
   author={Qin, Yan and Wang, Weiping and Chen, Zixian and Song, Hong and Zhang, Shigeng},
   booktitle={2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)}, 
   title={TransAST: A Machine Translation-Based Approach for Obfuscated Malicious JavaScript Detection}, 
