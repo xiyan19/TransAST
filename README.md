@@ -67,10 +67,7 @@ The corresponding obfuscation code file can be obtained  the origin code process
 
 **./transformer/spm.py**: Train the compressed data from char_corpus to generate an spm model (.model) for subsequent feature processing.
 
-where
--   `'.........'`: Be replaced with the specific location of the corresponding file.
-
-Please check configuration files in  `configs/`, and you can always add your own model config.
+where`'.........'`(argument) in above every file: Be replaced with the specific location of the corresponding file. Please replace it according to your condition.
 
 
 ## Translation task
