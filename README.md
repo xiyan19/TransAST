@@ -2,7 +2,7 @@
 
 ![](https://github.com/xiyan19/TransAST/blob/main/docs/overview_page-0001.jpg)
 
-Yan Qin, Weiping Wang†, Zixian Chen, Hong Song, Shigeng Zhang(†corresponding author)[Paper](https://ieeexplore.ieee.org/document/10202623) 
+Yan Qin, Weiping Wang†, Zixian Chen, Hong Song, Shigeng Zhang(†corresponding author:wpwang@csu.edu.cn)[Paper](https://ieeexplore.ieee.org/document/10202623) 
 
 ## Requirements
 
