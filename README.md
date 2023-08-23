@@ -53,7 +53,7 @@ TransAST
 └─── ...
 
 ```
-The corresponding obfuscation code file can be obtained  the origin code processed by [JavaScript Obfuscator Tool.](https://obfuscator.io/)  
+The corresponding obfuscation code file can be obtained from the origin code processed by [JavaScript Obfuscator Tool.](https://obfuscator.io/)  
 
 ## Compressed sequence
 
